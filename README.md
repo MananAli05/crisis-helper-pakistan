@@ -1,10 +1,10 @@
 <div align="center">
   <img src="assets/banner.png" alt="Crisis Helper Pakistan Banner" width="100%" />
 
-  <h3>🚨 AI-Powered Crisis Response Dashboard for Pakistan</h3>
+  <h3>AI-Powered Crisis Response Dashboard for Pakistan</h3>
   <p>Real-time emergency shelters, live weather updates & actionable disaster management tools</p>
 
-  <h2>🌐 <a href="https://crisis-helper-146140013819.us-central1.run.app/" target="_blank">View Live Demo</a> 🌐</h2>
+<a href="https://crisis-helper-146140013819.us-central1.run.app/" target="_blank"></a> 
 
   <p>
     <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -17,7 +17,7 @@
 
 ---
 
-## 📸 Preview
+## Preview
 
 <div align="center">
   <img src="assets/dashboard-preview.png" alt="Crisis Helper Dashboard Preview" width="90%" />
@@ -29,16 +29,16 @@
 
 | Feature | Description |
 |---------|-------------|
-| 🌦️ **Live Weather** | Real-time weather data with premium hero layout |
-| 🏠 **Shelter Discovery** | Find nearby emergency shelters with image-rich cards |
-| 🤖 **AI-Powered Insights** | Gemini AI integration for crisis analysis & guidance |
-| 📊 **Emergency Dashboard** | Actionable overview with real-time crisis stats |
-| 🎨 **Premium UI** | Glassmorphism, smooth animations & dark mode |
-| 📱 **Responsive** | Works seamlessly on desktop, tablet & mobile |
+|  **Live Weather** | Real-time weather data with premium hero layout |
+|  **Shelter Discovery** | Find nearby emergency shelters with image-rich cards |
+| **AI-Powered Insights** | Gemini AI integration for crisis analysis & guidance |
+|  **Emergency Dashboard** | Actionable overview with real-time crisis stats |
+|  **Premium UI** | Glassmorphism, smooth animations & dark mode |
+|  **Responsive** | Works seamlessly on desktop, tablet & mobile |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React 19, TypeScript, Tailwind CSS 4
 - **Build Tool:** Vite 6
@@ -49,7 +49,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v18+)
@@ -97,7 +97,7 @@ crisis-helper-pakistan/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
