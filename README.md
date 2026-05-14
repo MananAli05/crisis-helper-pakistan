@@ -4,7 +4,7 @@
   <h3>AI-Powered Crisis Response Dashboard for Pakistan</h3>
   <p>Real-time emergency shelters, live weather updates & actionable disaster management tools</p>
 
-  <h3>🔴 Live Demo: <a href="https://crisis-helper-146140013819.us-central1.run.app/" target="_blank">https://crisis-helper-146140013819.us-central1.run.app/</a></h3>
+  <h3>Live Demo: <a href="https://crisis-helper-146140013819.us-central1.run.app/" target="_blank">https://crisis-helper-146140013819.us-central1.run.app/</a></h3>
 
   <p>
     <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
