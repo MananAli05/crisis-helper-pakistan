@@ -5,6 +5,12 @@
   <p>Real-time emergency shelters, live weather updates & actionable disaster management tools</p>
 
   <p>
+    <a href="https://crisis-helper-146140013819.us-central1.run.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🔴_Live_Demo-View_Site-FF4B4B?style=for-the-badge" alt="Live Demo" />
+    </a>
+  </p>
+
+  <p>
     <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
     <img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
