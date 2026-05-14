@@ -1,0 +1,6 @@
+{
+  "name": "Crisis Helper Pakistan 🆘",
+  "description": "An AI-powered emergency resource finder for Pakistani users providing immediate action steps and local contacts.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI-powered emergency guidance", "Local Pakistani emergency contacts", "Bilingual support (Urdu/English)"]
+}
